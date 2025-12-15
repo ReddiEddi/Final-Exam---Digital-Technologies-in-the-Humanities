@@ -1,0 +1,40 @@
+body {
+  background: rgb(226, 191, 144);
+  font-family: 'ＭＳ Ｐゴシック', 'MS PGothic', 'メイリオ', Meiryo, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+header {
+  outline-style: groove;
+  outline-width: 20px;
+  outline-color: rgb(255, 0, 0);
+  text-align: center;
+  font-size: 80px;
+  color: white;
+  padding: 1px 1px;
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+}
+
+h2 {
+  outline-style: groove;
+  outline-width: 15px;
+  outline-color: rgb(255, 0, 0);
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.background-pinik {
+    background: rgb(226, 191, 144);
+}
+
+.bigger-font-size {
+    font-size: 53px;
+}
+
+.hackerman-image {
+  width: 400px;
+}
