@@ -1,2 +1,5 @@
 # Final-Exam---Digital-Technologies-in-the-Humanities
-The final exam for Digital Technologies in the Humanities - Autumn 2025
+
+This website serves as my final exam in the Digital Technologies in the Humanities course of he Autumn semester of 2025 at Aarhus University.
+
+This repository will remain public until the grading has been finished (or whenever I feel like it whichever comes last).
