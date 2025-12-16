@@ -20,7 +20,8 @@ h1 {
 }
 
 h2 {
-  width: 1200px;
+  width: 1400px;
+  align: center;
   outline-style: groove;
   outline-width: 15px;
   outline-color: rgb(255, 0, 0);
