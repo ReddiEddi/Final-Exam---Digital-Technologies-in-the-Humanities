@@ -23,7 +23,7 @@ Japan may have been an innovative country when it came to household electronics 
 
 Coopersmith, J., & Kettl, D. (2015). *Faxed : The Rise and Fall of the Fax Machine*. Baltimore, U.S.A: Johns Hopkins University Press.
 
-Folcker, J. J. S. (2022). *Japan and the Fax Machine: How and Way Institutions Carry on Faxing* [Unpublished paper]. School of Culture and Society. Aarhus University.  
+Folcker, J. J. S. (2022). *Japan and the Fax Machine: How and Why Institutions Carry on Faxing* [Unpublished paper]. School of Culture and Society. Aarhus University.  
 
 Hasegawa, Y. (2014). *Japanese: A Linguistic Introduction*. Cambridge: Cambridge University Press.
 
@@ -54,3 +54,4 @@ Sony Interacrive Entertainment. (2025). *Company History*. Retrieved 2025, Decem
 Straub, D. W. (1994). *The Effect of Culture on IT Diffusion: E-Mail and FAX in Japan and the U.S*. Information Systems Research, 5(1), 23-47. 
 
 Wolf, M. J. P. (2012). *Before the crash : early video game history* (1st ed.). Detroit: Wayne State University Press.
+
